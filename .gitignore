@@ -1,0 +1,10 @@
+# 3D models we have no rights to publish: they stay in the local plugin folder only.
+# Dominus (Rocket League car), including the originals in source-models/.
+*.glb
+*.gltf
+*.obj
+*.mtl
+source-models/
+
+# The preview picture is a render of that model.
+dominus_preview.png

@@ -1,0 +1,11 @@
+[meta]
+name = "Dominus Ball"
+version = "1.0.1"
+author = "CryT4x"
+description = "Adds a clear ball with the Dominus car from Rocket League inside, standing on the ground and facing where the ball goes."
+min_host = "0.16.0"
+dependencies = ["cosmetic-kit"]
+
+[script]
+files = ["main.as"]
+assets = ["*.png", "models/*.txt", "models/*.glb"]

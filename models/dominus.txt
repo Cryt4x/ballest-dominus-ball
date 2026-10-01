@@ -1,0 +1,7 @@
+# The Dominus (Rocket League car) inside a clear ball: a 3D model file (dominus.glb: dominus-rocket_league_car_high.glb,
+# "Dominus - Rocket League Car" by Jako, CC-BY 4.0, turned to face forward with its origin on the ground under its
+# middle). The travel group keeps it upright and facing where the ball goes. 84 cm long, its wheels standing on the
+# ball's lowest point (50 below the centre), so the car stands on the ground; its front, back and sides reach out of
+# the ball.
+group car travel
+mesh dominus.glb size=84 at=0,0,-50
