@@ -1,8 +1,9 @@
 # Dominus Ball
-Adds a clear ball with a Dominus inside, which travels with the ball:
+Adds a clear ball with a Dominus inside, which travels with the ball
 
-- **Dominus**: the Dominus car from Rocket League standing on the ground inside the ball, facing where the ball
-  goes and tilting with it up and down slopes and when falling
+*KNOWN ISSUE: Dominus is not rendering in the main menu currently*
+
+The **Dominus** car from Rocket League standing on the ground inside the ball, facing where the ball goes and tilting with it up and down slopes and when falling
 
 https://github.com/user-attachments/assets/dbdc41bc-b7cb-425f-aafc-e72884c7d3bc
 
