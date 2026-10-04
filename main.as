@@ -9,7 +9,7 @@
 bool Tilt = true;
 
 [Setting name="Most tilt" min=0 max=90 description="The steepest the car tilts up or down, in degrees"]
-float MostTilt = 70;
+float MostTilt = 90;
 
 import bool AddBall(const string &in, const string &in, const string &in, const string &in, const string &in) from "cosmetic-kit";
 

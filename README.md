@@ -4,15 +4,13 @@ Adds a clear ball with a Dominus inside, which travels with the ball:
 - **Dominus**: the Dominus car from Rocket League standing on the ground inside the ball, facing where the ball
   goes and tilting with it up and down slopes and when falling
 
-[![The Dominus Ball in a race (video)](https://i.imgur.com/zMyceqeh.jpg)](https://imgur.com/a/a9VbBcX)
-
-*Click the picture to watch the video on Imgur.*
+https://github.com/user-attachments/assets/dbdc41bc-b7cb-425f-aafc-e72884c7d3bc
 
 The car is drawn by the plugin at your own ball during a race and in the menu ball on the Customize page. Its settings
 (footer plugins > open > installed > Dominus Ball > settings):
 
 - **Tilt with the ball**: tilt the car up and down, not only left and right (on by default)
-- **Most tilt**: the steepest it tilts, in degrees (70 by default)
+- **Most tilt**: the steepest it tilts, in degrees (90 by default)
 
 Needs the Cosmetic Kit plugin (a dependency, see `info.toml`).
 

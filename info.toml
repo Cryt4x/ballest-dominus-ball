@@ -1,6 +1,6 @@
 [meta]
 name = "Dominus Ball"
-version = "1.0.2"
+version = "1.0.3"
 author = "CryT4x"
 description = "Adds a clear ball with the Dominus car from Rocket League inside, standing on the ground and facing where the ball goes, tilting up and down slopes and falls too."
 min_host = "0.20.0"

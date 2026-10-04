@@ -2,3 +2,6 @@
 *.obj
 *.mtl
 source-models/
+
+# Videos for the README are uploaded to GitHub, not kept in the plugin.
+*.mp4
