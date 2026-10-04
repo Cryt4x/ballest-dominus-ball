@@ -1,4 +1,4 @@
-# Ballest-Dominus-Ball
+# Dominus Ball
 Adds a clear ball with a Dominus inside, which travels with the ball:
 
 - **Dominus**: the Dominus car from Rocket League standing on the ground inside the ball, facing where the ball
